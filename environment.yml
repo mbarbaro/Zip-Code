@@ -1,0 +1,15 @@
+name: BMI
+channels:
+- defaults
+dependencies:
+- python
+- jupyterlab
+- numpy
+- pandas
+- scipy
+- seaborn
+- plotly
+- matplotlib
+- geopandas
+- autopep8
+- openpyxl
